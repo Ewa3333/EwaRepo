@@ -1,1 +1,3 @@
 # EwaRepo
+
+#test mojego repozytorium
